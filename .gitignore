@@ -1,0 +1,18 @@
+### Tensorflow ###
+*.data*
+*.index
+*.meta
+*.p
+checkpoint
+
+
+### Python ###
+__pycache__/
+cifar-10-batches-py
+cifar-10-python.tar.gz
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
